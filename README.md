@@ -8,5 +8,6 @@ Landmark detection on cats face by deep learning(ResNet-50). Implemented by Kera
 # Data Source
 [Kaggle Cats Dataset](https://www.kaggle.com/crawford/cat-dataset) (CC0:Public Domain)
 
-# Details
-Coming soon.
+# Details (Japanese)
+TPUで猫の顔のランドマーク検出を1から実装する  
+[https://qiita.com/koshian2/items/006cd5763ef2d2037b8e](https://qiita.com/koshian2/items/006cd5763ef2d2037b8e)
